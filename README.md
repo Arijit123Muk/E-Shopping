@@ -1,4 +1,4 @@
-# shopping
+# Shopping
 
 A new Flutter application for shopping
 
@@ -14,3 +14,19 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+In this following story I had simply made a  shoping app that will help you to purchase your prefered items.
+###### And Here are the few Screenshot ######
+
+<a href="https://github.com/Arijit12368/master/tree/master/shopping/Screenshots">
+         <img alt="Qries" src="https://github.com/Arijit12368/master/blob/master/shopping/Screenshots/1.jpeg"
+         width=300" height="500">
+                                
+<a href="https://github.com/Arijit12368/master/tree/master/shopping/Screenshots">
+         <img alt="Qries" src="https://github.com/Arijit12368/master/blob/master/shopping/Screenshots/6.jpeg"
+         width=300" height="500">                
+<a href="https://github.com/Arijit12368/master/tree/master/shopping/Screenshots">
+         <img alt="Qries" src="https://github.com/Arijit12368/master/blob/master/shopping/Screenshots/7.jpeg"
+         width=300" height="500">
+         
+For more screenshot open folder Screenshots
