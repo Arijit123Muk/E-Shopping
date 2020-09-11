@@ -18,15 +18,35 @@ samples, guidance on mobile development, and a full API reference.
 In this following story I had simply made a  shoping app that will help you to purchase your prefered items.
 ###### And Here are the few Screenshot ######
 
-<a href="https://github.com/Arijit12368/master/tree/master/shopping/Screenshots">
-         <img alt="Qries" src="https://github.com/Arijit12368/master/blob/master/shopping/Screenshots/1.jpeg"
+<a href="https://github.com/Arijit123Muk/E-Shopping/tree/master/Screenshots">
+         <img alt="Qries" src="https://github.com/Arijit123Muk/E-Shopping/blob/master/Screenshots/1.jpeg"
          width=300" height="500">
                                 
-<a href="https://github.com/Arijit12368/master/tree/master/shopping/Screenshots">
-         <img alt="Qries" src="https://github.com/Arijit12368/master/blob/master/shopping/Screenshots/6.jpeg"
+<a href="https://github.com/Arijit123Muk/E-Shopping/tree/master/Screenshots">
+         <img alt="Qries" src="https://github.com/Arijit123Muk/E-Shopping/blob/master/Screenshots/2.jpeg"
          width=300" height="500">                
-<a href="https://github.com/Arijit12368/master/tree/master/shopping/Screenshots">
-         <img alt="Qries" src="https://github.com/Arijit12368/master/blob/master/shopping/Screenshots/7.jpeg"
+<a href="https://github.com/Arijit123Muk/E-Shopping/tree/master/Screenshots">
+         <img alt="Qries" src="https://github.com/Arijit123Muk/E-Shopping/blob/master/Screenshots/3.jpeg"
+         width=300" height="500">
+<a href="https://github.com/Arijit123Muk/E-Shopping/tree/master/Screenshots">
+         <img alt="Qries" src="https://github.com/Arijit123Muk/E-Shopping/blob/master/Screenshots/4.jpeg"
+         width=300" height="500">
+                                
+<a href="https://github.com/Arijit123Muk/E-Shopping/tree/master/Screenshots">
+         <img alt="Qries" src="https://github.com/Arijit123Muk/E-Shopping/blob/master/Screenshots/5.jpeg"
+         width=300" height="500">                
+<a href="https://github.com/Arijit123Muk/E-Shopping/tree/master/Screenshots">
+         <img alt="Qries" src="https://github.com/Arijit123Muk/E-Shopping/blob/master/Screenshots/6.jpeg"
+         width=300" height="500">
+<a href="https://github.com/Arijit123Muk/E-Shopping/tree/master/Screenshots">
+         <img alt="Qries" src="https://github.com/Arijit123Muk/E-Shopping/blob/master/Screenshots/7.jpeg"
+         width=300" height="500">
+                                
+<a href="https://github.com/Arijit123Muk/E-Shopping/tree/master/Screenshots">
+         <img alt="Qries" src="https://github.com/Arijit123Muk/E-Shopping/blob/master/Screenshots/8.jpeg"
+         width=300" height="500">                
+<a href="https://github.com/Arijit123Muk/E-Shopping/tree/master/Screenshots">
+         <img alt="Qries" src="https://github.com/Arijit123Muk/E-Shopping/blob/master/Screenshots/9.jpeg"
          width=300" height="500">
          
 For more screenshot open folder Screenshots
