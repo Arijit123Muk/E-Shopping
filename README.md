@@ -71,14 +71,8 @@ Hit the play button.
 In the command terminal, run the following commands:
 ```
 $ open -a Simulator
-$ flutter run
-```
-
-
-## Stimulate for Android ##
-Make sure you have an _Android Emulator_ installed and running.
-Run the following command in your terminal.
-```
+$ flutter doctor
 $ flutter pub get
 $ flutter run
 ```
+
