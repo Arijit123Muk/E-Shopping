@@ -57,3 +57,28 @@ In the command terminal, run the following commands:
 $ git clone https://github.com/Arijit123Muk/E-Shopping.git
 $ cd E-Shopping
 $ flutter run
+```
+
+## Stimulate for iOS ##
+
+###### Method One ######
+```
+Open the project in Xcode from ios/Runner.xcodeproj.
+Hit the play button.
+```
+
+###### Method Two ######
+In the command terminal, run the following commands:
+```
+$ open -a Simulator
+$ flutter run
+```
+
+
+## Stimulate for Android ##
+Make sure you have an _Android Emulator_ installed and running.
+Run the following command in your terminal.
+```
+$ flutter pub get
+$ flutter run
+```
