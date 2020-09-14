@@ -56,6 +56,8 @@ In the command terminal, run the following commands:
 ```git
 $ git clone https://github.com/Arijit123Muk/E-Shopping.git
 $ cd E-Shopping
+$ flutter doctor
+$ flutter pub get
 $ flutter run
 ```
 
