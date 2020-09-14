@@ -49,7 +49,7 @@ THe application that consists different types of Item like t-shirt, phones, cosm
 For more screenshot open folder Screenshots
 
 ## Getting Started ##
- __Note:__ Make sure your Flutter environment is setup.
+ __Note:__ Make sure your Flutter environment is setup. If not please read <a href="https://flutter.dev/docs">Flutter Documentation</a>.
 
 __Installation__
 In the command terminal, run the following commands:
