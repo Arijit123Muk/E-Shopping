@@ -1,6 +1,5 @@
 # E-Shopping
-A new open-source Flutter project that enables the developer to quickly get started with the Flutter application development. I have recreated a few screens of our famous flipkart or amazon Starter Kit in Flutter.
-THe application that consists different types of Item like t-shirt, phones, cosmetics, etc.
+A new open-source Flutter project that enables the developer to quickly get started with the Flutter application development. <p>I have rcreated a few screens of our famous flipkart or amazon Starter Kit in Flutter.The application that consists different types of Item like t-shirt, phones, cosmetics, etc.</p>
 
 ## Demo ##
 
